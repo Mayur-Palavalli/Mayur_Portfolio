@@ -97,3 +97,7 @@ One of the best parts about Github is that you can view how other people set up 
 
 To watch the BSE tutorial on how to create a portfolio, click here.
 -->
+
+# Starter Project: Useless Box
+A funny box that closes itself when you try to open it. When the switch is flipped, a motor turns a claw that pops out of the lid to flip the switch back and then returns back inside. 
+

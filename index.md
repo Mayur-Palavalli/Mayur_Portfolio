@@ -101,5 +101,5 @@ To watch the BSE tutorial on how to create a portfolio, click here.
 # Starter Project: Useless Box
 A funny box that closes itself when you try to open it. When the switch is flipped, a motor turns a claw that pops out of the lid to flip the switch back and then returns back inside. 
 
-<iframe width="560" height="315" src="https://youtu.be/MDQ9KzBqOQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MDQ9KzBqOQM&ab_channel=BlueStampEng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

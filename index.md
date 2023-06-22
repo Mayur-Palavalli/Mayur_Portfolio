@@ -102,5 +102,7 @@ To watch the BSE tutorial on how to create a portfolio, click here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MDQ9KzBqOQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-A funny box that closes itself when you try to open it. When the switch is flipped, a motor turns a claw that pops out of the lid to flip the switch back and then returns back inside. 
+I made a "useless box" for my starter project. This is a box that closes itself when you try to open it. When the switch on top is flipped, it triggers a small hook to pop out of the lid and flip back the switch before returning inside. The box is powered by three AAA batteries which are connected to a motor. The motor is connected to a circuit which consists of two resistors, a toggle switch, a button switch, and an LED. The turns red when the switch is flipped and green when the hook flips the switch back. 
+
+The toughest part of building this box was soldering all the components to the circuit without damaging other parts or creating a short circuit. I even had to re-solder many times to get the circuit to work since solder needs to be done correctly in order to allow electricity to pass. When the circuit finally worked, it was only a matter of putting the rest of the components together which was quite simple. 
 

@@ -38,17 +38,13 @@ For your second milestone, explain what you've worked on since your previous mil
 -->
 
 # First Milestone
-<!---
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Uh5yGu1_vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+Building a connected circuit with an arduino and an MPU6050 that was able to track rotation on three axes marked the completion of my first milestone. I used a breadboard and four wires to make connecting the arduino to the MPU6050 easier. A USB cable connected the arduino to the computer. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+The MPU6050 contains a 3-axis accelerometer that measures gravitational acceleration and a 3-axis gyroscope that measures angular velocity. My arduino code made use of both these features to calculate and render sensor orientation. I used the processing development environment to draw a 3D box on the screen that follows my movements with the arduino. 
+
+The most challenging part was figuring out why the roll, pitch, and yaw values were drifting (slowly increasing/decreasing) even when I wasn't moving the arduino. It took me a while to figure out that the cause of the drift was in the error values. The amount of error is unique to each particular device, so I had to run the program a couple of times and print out the error values. Replacing the old values with these new ones fixed the issue and stopped the drift, allowing the program to work as intended. 
 
 # Schematics 
 <!---
@@ -89,14 +85,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 -->
 
 # Other Resources/Examples
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Uh5yGu1_vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Building a connected circuit with an arduino and an MPU6050 that was able to track rotation on three axes marked the completion of my first milestone. I used a breadboard and four wires to make connecting the arduino to the MPU6050 easier. A USB cable connected the arduino to the computer. 
-
-The MPU6050 contains a 3-axis accelerometer that measures gravitational acceleration and a 3-axis gyroscope that measures angular velocity. My arduino code made use of both these features to calculate and render sensor orientation. I used the processing development environment to draw a 3D box on the screen that follows my movements with the arduino. 
-
-The most challenging part was figuring out why the roll, pitch, and yaw values were drifting (slowly increasing/decreasing) even when I wasn't moving the arduino. It took me a while to figure out that the cause of the drift was in the error values. The amount of error is unique to each particular device, so I had to run the program a couple of times and print out the error values. Replacing the old values with these new ones fixed the issue and stopped the drift, allowing the program to work as intended. 
 
 <!---
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.

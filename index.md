@@ -27,6 +27,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lx24zPu9MfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 My second milestone was building the whole gimbal box and platform as well as connecting the circuit to power on the Arduino and MPU6050. The three servos are mounted on 3D printed plastic parts using M3 nuts and bolts. 
 
 <!---

@@ -33,6 +33,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 My second milestone was building the whole gimbal box and platform as well as connecting the circuit to power on the Arduino and MPU6050. The three servos are mounted on 3D printed plastic parts using M3 nuts and bolts. 
 
+The gimbal's circuit includes the Arduino and MPU6050, a DC-DC buck converter, a 9V batter, and the three servos. The most challenging part of this task was getting the arduino and MPU to turn on, which wasn't happening when I first connected the circuit together. Eventually, I realized that the circuit diagram was missing an important wire connection from the battery's ground cable to the Arduino. After I added this to my circuit the Arduino and MPU turned on as intended. 
+
 <!---
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal

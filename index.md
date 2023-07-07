@@ -303,13 +303,24 @@ void loop() {
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
-| **Part** | **Note** | **Price** | **Link** |
+| **Part** | **Note** | **Price** | **Quantitiy** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| [MPU6050 IMU](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ?crid=EPJ36BB9OJLO&keywords=MPU-6050&qid=1664878452&qu=eyJxc2MiOiIyLjkwIiwicXNhIjoiMi45NSIsInFzcCI6IjIuOTcifQ%3D%3D&sprefix=mpu6050%2Caps%2C266&sr=8-3&linkCode=sl1&tag=howto045-20&linkId=a10e35b9e08344c4716bc03a15f70908&language=en_US&ref_=as_li_ss_tl&th=1) | Detects motion and orientation | $6.49 | 1 |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| [MG996R Servo](https://www.amazon.com/4-Pack-MG996R-Torque-Digital-Helicopter/dp/B07MFK266B/ref=dp_prsubs_sccl_1/147-3246084-1098152?pd_rd_w=D4zOx&content-id=amzn1.sym.08119d46-afb1-4cdf-9b04-49551e688996&pf_rd_p=08119d46-afb1-4cdf-9b04-49551e688996&pf_rd_r=EG97922XV3PC24GA4VR5&pd_rd_wg=puR3U&pd_rd_r=def12d0c-28f9-4eea-9749-2875c3ca16ba&pd_rd_i=B07MFK266B&th=1) | Used to move arms that hold the platform | $19.99 (for 4) | 3 |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| [Buck Converter](https://www.amazon.com/DZS-Elec-Adjustable-Electronic-Stabilizer/dp/B06XRN7NFQ/ref=as_li_ss_tl?dchild=1&keywords=LM2596&qid=1609862551&sr=8-9&linkCode=sl1&tag=howto045-20&linkId=842d9c6e89dfe7206324a5e1547fe3ce&language=en_US) | Used to convert 9 Volts from battery to 5 Volts | $5.74 (for 2) | 1 |
+|:--:|:--:|:--:|:--:|
+| [Arduino Board](https://www.amazon.com/ATmega328P-Microcontroller-Board-Cable-Arduino/dp/B00NLAMS9C/ref=as_li_ss_tl?s=electronics&ie=UTF8&qid=1540015265&sr=1-6&keywords=arduino+nano&linkCode=sl1&tag=howto045-20&linkId=44be140d2f971f2840665fc1b2baa735&language=en_US)| Controls IMU and servos | $8.99 | 1 |
+|:--:|:--:|:--:|:--:|
+| [Breadboard](https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_2_sspa?crid=3QE8FDAFNBWF&keywords=breadboard&qid=1688765419&s=industrial&sprefix=breadboard%2Cindustrial%2C147&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | Used to connect IMU and Arduino without soldering | $9.99 (for 3) | 1 |
+|:--:|:--:|:--:|:--:|
+| [Jumper Wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sxin_17_pa_sp_search_thematic_sspa?content-id=amzn1.sym.6fd80408-71b6-44da-b059-082bba9089d3%3Aamzn1.sym.6fd80408-71b6-44da-b059-082bba9089d3&crid=1GZV1KTJFBWI1&cv_ct_cx=jumper+wires&keywords=jumper+wires&pd_rd_i=B01EV70C78&pd_rd_r=1defd59d-99a4-4263-bcda-81cfd97cb7d4&pd_rd_w=CpjCe&pd_rd_wg=QDD7R&pf_rd_p=6fd80408-71b6-44da-b059-082bba9089d3&pf_rd_r=Z940NFV2SDTZ6991SEK9&qid=1688765698&s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=jumper+wires%2Cindustrial%2C282&sr=1-3-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1) | 
+Used to connect electrical components| $6.98 (for 120) | 30 |
+|:--:|:--:|:--:|:--:|
+| 9V Battery | Used to power the circuit | $12.34 | 1 |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | Quantity |
 |:--:|:--:|:--:|:--:|
 
 # Other Resources/Examples

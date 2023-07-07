@@ -21,6 +21,10 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lb72Fg6I3-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+My final milestone was the completion of my project by programming what I built in the previous milestone. I programmed the Arduino to use the three servos to stabilize and balance the platform by counteracting the movements I make to the device, essentially making it a gimbal. 
+
+This was by far the most challenging part of the whole project. I ran into many issues while coding and even after coding while trying to get the platform to move properly. To start off, I had the wrong offset (error) values as in the first milestone, but it was slightly tougher to correct. Once I figured it out, the code worked as intended but there was an issue with the device itself. Due to the servos' limited rage of motion, the motor's rotation always starts off from the middle. Since my parts weren't attached in the middle, the servos rotated to an absurd position before working like a gimbal. To fix this, I had to dismantle and mount my parts again but this time making sure that my arms were horizontal only when they were in the middle of the servos' range of motion. 
+
 <!--- 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone

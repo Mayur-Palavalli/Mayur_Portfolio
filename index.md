@@ -325,10 +325,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 | [M3 Bolts and Nuts](https://www.amazon.com/SZHKM-Stainless-Washer-Classification-Pieces/dp/B078V73NN1/ref=sr_1_2_sspa?crid=1VET4CQZSXIM1&keywords=m3+nuts+and+bolts&qid=1688768152&sprefix=m3+nuts+and+bolts%2Caps%2C184&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | Securing sirvos and 3D printed parts | $11.99 | N/A |
 |:--:|:--:|:--:|:--:|
 
-
-# Other Resources/Examples
-
 <!---
+# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)

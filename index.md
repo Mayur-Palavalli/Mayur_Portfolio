@@ -319,8 +319,17 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | [9V Battery](https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/ref=sr_1_1_ffob_sspa?keywords=9V+battery&qid=1688767084&rdc=1&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | Used to power the circuit | $12.34 | 1 |
 |:--:|:--:|:--:|:--:|
+| M3 Bolts and Nuts | Securing sirvos and 3D printed parts | $11.99 | N/A |
+|:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | Quantity |
 |:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | Quantity |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | Quantity |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | Quantity |
+|:--:|:--:|:--:|:--:|
+
 
 # Other Resources/Examples
 

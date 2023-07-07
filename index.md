@@ -300,8 +300,11 @@ void loop() {
 -->
 
 # Bill of Materials
+
+<!---
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
+-->
 
 | **Part** | **Note** | **Price** | **Quantitiy** |
 |:--:|:--:|:--:|:--:|
@@ -319,15 +322,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | [9V Battery](https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/ref=sr_1_1_ffob_sspa?keywords=9V+battery&qid=1688767084&rdc=1&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | Used to power the circuit | $12.34 | 1 |
 |:--:|:--:|:--:|:--:|
-| M3 Bolts and Nuts | Securing sirvos and 3D printed parts | $11.99 | N/A |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | Quantity |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | Quantity |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | Quantity |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | Quantity |
+| [M3 Bolts and Nuts](https://www.amazon.com/SZHKM-Stainless-Washer-Classification-Pieces/dp/B078V73NN1/ref=sr_1_2_sspa?crid=1VET4CQZSXIM1&keywords=m3+nuts+and+bolts&qid=1688768152&sprefix=m3+nuts+and+bolts%2Caps%2C184&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | Securing sirvos and 3D printed parts | $11.99 | N/A |
 |:--:|:--:|:--:|:--:|
 
 

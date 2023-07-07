@@ -1,6 +1,10 @@
 # Camera Gimbal
 I built a self-stabilizing platform that can hold a small camera in order to record a relatively smooth video in spite of bumpy hand movements. The platform is powered by three servos which are controlled by and Arduino Nano and an MPU6050, which has a built in gyroscope and accelerometer. 
 
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
+| Mayur P. | Irvington High School | Computer Science | Incoming Junior
+
 <!---
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
@@ -13,8 +17,11 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 ![Headstone Image](logo.svg)
 -->
 
-<!--- 
 # Final Milestone
+
+
+
+<!--- 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
@@ -66,6 +73,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Code
 <!---
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+-->
 
 ```c++
 void setup() {
@@ -79,7 +87,6 @@ void loop() {
 
 }
 ```
--->
 
 # Bill of Materials
 <!---

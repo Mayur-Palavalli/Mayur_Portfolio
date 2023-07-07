@@ -267,6 +267,11 @@ First milestone circuit diagram:
 
 ![Milestone 1 circuit diagram](https://raw.githubusercontent.com/Mayur-Palavalli/Mayur_Portfolio/gh-pages/Milestone_1_circuit.png)
 
+Second milestone circuit diagram:
+<br>  
+
+![Miestone 2 circuit diagram]()
+
 <!---
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 -->

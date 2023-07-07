@@ -261,6 +261,10 @@ void serialEvent (Serial myPort) {
 The most challenging part was figuring out why the roll, pitch, and yaw values were drifting (slowly increasing/decreasing) even when I wasn't moving the arduino. It took me a while to figure out that the cause of the drift was in the error values. The amount of error is unique to each particular device, so I had to run the program a couple of times and print out the error values. Changing the error values to the the ones calculated in my code fixed the issue and stopped the drift, allowing the program to work as intended. 
 
 # Schematics 
+
+First milestone circuit diagram: 
+![Milestone 1 circuit diagram](https://raw.githubusercontent.com/Mayur-Palavalli/Mayur_Portfolio/gh-pages/Milestone_1_circuit.png)
+
 <!---
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 -->

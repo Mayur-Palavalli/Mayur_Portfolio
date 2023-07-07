@@ -317,7 +317,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | [Jumper Wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sxin_17_pa_sp_search_thematic_sspa?content-id=amzn1.sym.6fd80408-71b6-44da-b059-082bba9089d3%3Aamzn1.sym.6fd80408-71b6-44da-b059-082bba9089d3&crid=1GZV1KTJFBWI1&cv_ct_cx=jumper+wires&keywords=jumper+wires&pd_rd_i=B01EV70C78&pd_rd_r=1defd59d-99a4-4263-bcda-81cfd97cb7d4&pd_rd_w=CpjCe&pd_rd_wg=QDD7R&pf_rd_p=6fd80408-71b6-44da-b059-082bba9089d3&pf_rd_r=Z940NFV2SDTZ6991SEK9&qid=1688765698&s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=jumper+wires%2Cindustrial%2C282&sr=1-3-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1) | Used to connect electrical components| $6.98 (for 120) | 30 |
 |:--:|:--:|:--:|:--:|
-| 9V Battery | Used to power the circuit | $12.34 | 1 |
+| [9V Battery](https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/ref=sr_1_1_ffob_sspa?keywords=9V+battery&qid=1688767084&rdc=1&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | Used to power the circuit | $12.34 | 1 |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | Quantity |
 |:--:|:--:|:--:|:--:|

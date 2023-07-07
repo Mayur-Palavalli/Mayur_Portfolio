@@ -263,7 +263,8 @@ The most challenging part was figuring out why the roll, pitch, and yaw values w
 # Schematics 
 
 First milestone circuit diagram: 
-<br>
+<br>  
+
 ![Milestone 1 circuit diagram](https://raw.githubusercontent.com/Mayur-Palavalli/Mayur_Portfolio/gh-pages/Milestone_1_circuit.png)
 
 <!---

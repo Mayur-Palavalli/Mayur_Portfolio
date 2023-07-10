@@ -17,7 +17,8 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 ![Headstone Image](logo.svg)
 -->
 
-#Modifications
+# Modifications
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-y4w7765NyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My two modifications are a battery holder and a power switch. I chose to include these two modifications since I needed the battery to sit outside the container in order to fit all the components inside, and I needed a switch to control the power since it's impractical to disconnect and reconnect a wire everytime I need it to turn on or off. 
